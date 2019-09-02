@@ -1,0 +1,101 @@
+,Date,Rank,Sector,Performance
+0,08/01/2019,Real-Time Performance,Real Estate,0.22
+1,08/01/2019,Real-Time Performance,Health Care,0.10
+2,08/01/2019,Real-Time Performance,Consumer Staples,-0.49
+3,08/01/2019,Real-Time Performance,Communication Services,-0.49
+4,08/01/2019,Real-Time Performance,Information Technology,-0.53
+5,08/01/2019,Real-Time Performance,Materials,-0.57
+6,08/01/2019,Real-Time Performance,Consumer Discretionary,-1.30
+7,08/01/2019,Real-Time Performance,Industrials,-1.98
+8,08/01/2019,Real-Time Performance,Energy,-2.28
+9,08/01/2019,Real-Time Performance,Financials,-2.32
+0,08/01/2019,1 Day Performance,Financials,-0.43
+1,08/01/2019,1 Day Performance,Utilities,-0.52
+2,08/01/2019,1 Day Performance,Energy,-0.53
+3,08/01/2019,1 Day Performance,Health Care,-0.99
+4,08/01/2019,1 Day Performance,Industrials,-1.05
+5,08/01/2019,1 Day Performance,Communication Services,-1.11
+6,08/01/2019,1 Day Performance,Consumer Discretionary,-1.18
+7,08/01/2019,1 Day Performance,Information Technology,-1.47
+8,08/01/2019,1 Day Performance,Materials,-1.48
+9,08/01/2019,1 Day Performance,Consumer Staples,-1.99
+0,08/01/2019,5 Day Performance,Communication Services,0.86
+1,08/01/2019,5 Day Performance,Consumer Staples,-0.43
+2,08/01/2019,5 Day Performance,Utilities,-0.69
+3,08/01/2019,5 Day Performance,Financials,-1.01
+4,08/01/2019,5 Day Performance,Health Care,-1.15
+5,08/01/2019,5 Day Performance,Industrials,-1.22
+6,08/01/2019,5 Day Performance,Energy,-1.44
+7,08/01/2019,5 Day Performance,Materials,-1.96
+8,08/01/2019,5 Day Performance,Information Technology,-2.44
+9,08/01/2019,5 Day Performance,Consumer Discretionary,-2.83
+0,08/01/2019,1 Month Performance,Communication Services,3.01
+1,08/01/2019,1 Month Performance,Consumer Staples,2.33
+2,08/01/2019,1 Month Performance,Financials,2.29
+3,08/01/2019,1 Month Performance,Real Estate,1.69
+4,08/01/2019,1 Month Performance,Consumer Discretionary,0.90
+5,08/01/2019,1 Month Performance,Industrials,0.60
+6,08/01/2019,1 Month Performance,Utilities,-0.38
+7,08/01/2019,1 Month Performance,Materials,-0.44
+8,08/01/2019,1 Month Performance,Health Care,-1.72
+9,08/01/2019,1 Month Performance,Energy,-1.87
+0,08/01/2019,3 Month Performance,Consumer Staples,2.96
+1,08/01/2019,3 Month Performance,Information Technology,2.58
+2,08/01/2019,3 Month Performance,Health Care,2.00
+3,08/01/2019,3 Month Performance,Materials,1.58
+4,08/01/2019,3 Month Performance,Utilities,1.39
+5,08/01/2019,3 Month Performance,Communication Services,1.01
+6,08/01/2019,3 Month Performance,Financials,0.97
+7,08/01/2019,3 Month Performance,Consumer Discretionary,0.20
+8,08/01/2019,3 Month Performance,Industrials,-0.36
+9,08/01/2019,3 Month Performance,Energy,-5.50
+0,08/01/2019,Year-to-Date (YTD) Performance,Consumer Discretionary,22.08
+1,08/01/2019,Year-to-Date (YTD) Performance,Communication Services,21.91
+2,08/01/2019,Year-to-Date (YTD) Performance,Industrials,20.92
+3,08/01/2019,Year-to-Date (YTD) Performance,Real Estate,20.48
+4,08/01/2019,Year-to-Date (YTD) Performance,Financials,18.58
+5,08/01/2019,Year-to-Date (YTD) Performance,Consumer Staples,17.12
+6,08/01/2019,Year-to-Date (YTD) Performance,Materials,15.45
+7,08/01/2019,Year-to-Date (YTD) Performance,Utilities,12.39
+8,08/01/2019,Year-to-Date (YTD) Performance,Energy,9.06
+9,08/01/2019,Year-to-Date (YTD) Performance,Health Care,5.28
+0,08/01/2019,1 Year Performance,Information Technology,14.32
+1,08/01/2019,1 Year Performance,Utilities,13.80
+2,08/01/2019,1 Year Performance,Communication Services,12.22
+3,08/01/2019,1 Year Performance,Consumer Staples,11.72
+4,08/01/2019,1 Year Performance,Consumer Discretionary,8.26
+5,08/01/2019,1 Year Performance,Industrials,3.67
+6,08/01/2019,1 Year Performance,Health Care,3.53
+7,08/01/2019,1 Year Performance,Financials,0.52
+8,08/01/2019,1 Year Performance,Materials,-1.48
+9,08/01/2019,1 Year Performance,Energy,-19.00
+0,08/01/2019,3 Year Performance,Information Technology,84.37
+1,08/01/2019,3 Year Performance,Consumer Discretionary,47.28
+2,08/01/2019,3 Year Performance,Financials,47.21
+3,08/01/2019,3 Year Performance,Industrials,30.12
+4,08/01/2019,3 Year Performance,Health Care,21.18
+5,08/01/2019,3 Year Performance,Materials,19.74
+6,08/01/2019,3 Year Performance,Utilities,14.03
+7,08/01/2019,3 Year Performance,Consumer Staples,9.14
+8,08/01/2019,3 Year Performance,Communication Services,-7.38
+9,08/01/2019,3 Year Performance,Energy,-7.92
+0,08/01/2019,5 Year Performance,Information Technology,116.66
+1,08/01/2019,5 Year Performance,Consumer Discretionary,79.28
+2,08/01/2019,5 Year Performance,Financials,52.34
+3,08/01/2019,5 Year Performance,Health Care,46.61
+4,08/01/2019,5 Year Performance,Industrials,43.95
+5,08/01/2019,5 Year Performance,Utilities,41.77
+6,08/01/2019,5 Year Performance,Consumer Staples,35.45
+7,08/01/2019,5 Year Performance,Materials,16.71
+8,08/01/2019,5 Year Performance,Communication Services,1.89
+9,08/01/2019,5 Year Performance,Energy,-35.80
+0,08/01/2019,10 Year Performance,Consumer Discretionary,379.61
+1,08/01/2019,10 Year Performance,Information Technology,350.57
+2,08/01/2019,10 Year Performance,Health Care,223.22
+3,08/01/2019,10 Year Performance,Industrials,215.18
+4,08/01/2019,10 Year Performance,Financials,170.79
+5,08/01/2019,10 Year Performance,Consumer Staples,141.11
+6,08/01/2019,10 Year Performance,Materials,110.77
+7,08/01/2019,10 Year Performance,Utilities,103.03
+8,08/01/2019,10 Year Performance,Communication Services,55.78
+9,08/01/2019,10 Year Performance,Energy,19.39
