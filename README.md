@@ -10,3 +10,5 @@
 •Reallocate funds by selling poor performing stocks to buy stocks with stronger financial data.
 
 This is for illustration purposes ONLY. Some files were intentionally removed to protect the proprietary nature of the software. Some features may no longer work correctly.
+
+Please see logs for program execution.
