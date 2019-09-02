@@ -8,3 +8,5 @@
 •Buys inverse ETFs to hedge portfolio before the crash occurs, limiting downside risk to almost none.
 •Rebalances portfolio, strategically dividing funds between the different sectors based on each sector's performance.
 •Reallocate funds by selling poor performing stocks to buy stocks with stronger financial data.
+
+This is for illustration purposes ONLY. Some files were intentionally removed to protect the proprietary nature of the software. Some features may no longer work correctly.
